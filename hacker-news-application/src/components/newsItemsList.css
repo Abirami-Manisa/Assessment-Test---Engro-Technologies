@@ -1,0 +1,32 @@
+.news-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: aliceblue;
+}
+
+.news-list__title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.news-list__loading {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.news-list__error {
+  color: red;
+  margin: 20px 0;
+}
+
+.news-list__end {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+}
